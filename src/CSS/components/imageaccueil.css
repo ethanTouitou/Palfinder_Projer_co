@@ -1,0 +1,75 @@
+.image__page1 {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.text__image__page1 {
+    position: absolute;
+    top: 15%;
+    left: 5%;
+
+    color: white;
+    /* Couleur du texte */
+    font-size: var(--gros-titre-1);
+    padding: 10px;
+    /* Espace autour du texte */
+    z-index: 1;
+}
+
+.grostitre2 {
+    position: absolute;
+    font-size: var(--gros-titre-2);
+    color: var(--bleu---bleu_principal);
+    top: 20%;
+    left: 5%;
+    padding: 10px;
+    z-index: 1;
+}
+
+.text1 {
+    position: absolute;
+    font-size: var(--gros-texte);
+    color: var(--noir_blanc_gris---blanc);
+    top: 55%;
+    left: 5%;
+    padding: 10px;
+    z-index: 1;
+    width: 500px;
+}
+
+.bouton {
+    position: absolute;
+    top: 83%;
+    left: 15%;
+    padding: 10px;
+    z-index: 1;
+    background-color: var(--bleu---bleu_principal);
+    /* Couleur de fond du bouton */
+    border: none;
+    /* Supprime les bordures */
+    color: white;
+    /* Couleur du texte */
+    padding: 15px 32px;
+    /* Espace intérieur du bouton */
+    text-align: center;
+    /* Centre le texte */
+    text-decoration: none;
+    /* Supprime le soulignement du texte */
+    display: inline-block;
+    /* Permet de régler la largeur automatiquement en fonction du contenu */
+    font-size: var(--bouton);
+    /* Taille de la police */
+    margin: 4px 2px;
+    /* Marge extérieure du bouton */
+    cursor: pointer;
+    /* Change le curseur au survol */
+    border-radius: 8px;
+    /* Arrondi les coins */
+}
+
+.bouton:hover {
+    background-color: #ffffff;
+    color: black;
+    /* Couleur de fond du bouton au survol */
+}

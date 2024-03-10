@@ -1,0 +1,5 @@
+.titre1 {
+    font-size: var(--titre-2);
+    max-width: 100%;
+    text-align: center;
+}

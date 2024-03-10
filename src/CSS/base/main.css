@@ -1,0 +1,14 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.container {
+    padding-left: var(--space3x);
+    padding-right: var(--space3x);
+    padding-top: 80px;
+}
+
+.body-color {
+    background-color: rgb(186, 255, 255);
+}

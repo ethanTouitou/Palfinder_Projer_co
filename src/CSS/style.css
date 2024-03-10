@@ -1,5 +1,5 @@
 /* Polices de caractère */
-@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.google.com/share?query=right');
 /* Librairies */
 
 @import "/src/css/vendors/normalize.css";
@@ -8,15 +8,15 @@
 @import "/src/css/utils/variables.css";
 
 /* Règles générales */
-
+@import "/src/CSS/base/main.css";
 
 /* Règles de composition */
-
+@import "/src/CSS/components/imageaccueil.css";
 
 /* Composants */
 
 /* Pages */
-
+@import "/src/CSS/pages/page.css";
 /*Layout*/
 @import "/src/CSS/Layout/header.css";
 @import "/src/CSS/Layout/footer.css"
