@@ -18,4 +18,5 @@
 /* Pages */
 
 /*Layout*/
-@import "/src/CSS/Layout/header.css"
+@import "/src/CSS/Layout/header.css";
+@import "/src/CSS/Layout/footer.css"
