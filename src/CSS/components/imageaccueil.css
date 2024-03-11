@@ -12,14 +12,17 @@
     color: white;
     /* Couleur du texte */
     font-size: var(--gros-titre-1);
+    font-family: poppins;
     padding: 10px;
     /* Espace autour du texte */
     z-index: 1;
+
 }
 
 .grostitre2 {
     position: absolute;
     font-size: var(--gros-titre-2);
+    font-family: Righteous;
     color: var(--bleu---bleu_principal);
     top: 20%;
     left: 5%;
