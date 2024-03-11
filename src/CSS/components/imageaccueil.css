@@ -41,11 +41,12 @@
     padding: 10px;
     z-index: 1;
     width: 500px;
+
 }
 
 .bouton {
     position: absolute;
-    top: 83%;
+    top: 89%;
     left: 15%;
     padding: 10px;
     z-index: 1;
@@ -78,4 +79,5 @@
     background-color: #ffffff;
     color: black;
     /* Couleur de fond du bouton au survol */
+    border: 2px solid rgb(0, 0, 0);
 }
