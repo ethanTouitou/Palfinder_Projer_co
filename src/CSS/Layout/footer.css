@@ -50,24 +50,16 @@ hr {
 }
 
 .menu__list-footer {
-    margin-left: 100px;
     flex-direction: column;
+    padding-left: 300px;
     padding-bottom: 30px;
-    padding-right: 300px;
+    width: 20%;
 }
 
 .footer__logo {
     margin-right: 200px;
 }
 
-.footer__telechargement {
-    width: 200px;
-    padding: 10px;
-}
-
-.troppetit {
-    scale: 1.17;
-}
 
 .footer-liste {
     margin-left: auto;
