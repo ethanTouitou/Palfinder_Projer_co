@@ -1,11 +1,13 @@
 .titre1 {
     font-size: var(--titre-1);
+    font-family: Righteous;
     max-width: 100%;
     text-align: center;
 }
 
 .texte2 {
     font-size: var(--texte);
+    font-family: poppins;
     text-align: left;
     padding-bottom: 50px;
 }
@@ -25,11 +27,13 @@
 
 .titre3 {
     font-size: var(--titre-2);
+    font-family: Righteous;
     text-align: center;
 }
 
 .texte3 {
     font-size: var(--texte);
+    font-family: poppins;
     text-align: center;
 }
 
@@ -38,6 +42,7 @@
     padding: 10px;
     z-index: 1;
     background-color: var(--bleu---bleu_principal);
+    font-family: Righteous;
     /* Couleur de fond du bouton */
     border: none;
     /* Supprime les bordures */
@@ -70,6 +75,7 @@
 .grostitre3 {
     font-size: var(--gros-titre-2);
     color: var(--bleu---bleu_principal);
+    font-family: Righteous;
     text-align: center;
     padding: 30px;
 }
@@ -81,14 +87,17 @@
 .titre5 {
     font-size: 48px;
     color: var(--bleu---bleu_principal);
+    font-family: Righteous;
 }
 
 .texte4 {
     font-size: var(--texte);
+    font-family: poppins;
 }
 
 .titre6 {
     font-size: var(--titre-2);
+    font-family: Righteous;
     text-align: center;
     padding-top: 50px;
 }
@@ -103,6 +112,7 @@
     padding: 10px;
     z-index: 1;
     background-color: var(--bleu---bleu_principal);
+    font-family: Righteous;
     /* Couleur de fond du bouton */
     border: none;
     /* Supprime les bordures */

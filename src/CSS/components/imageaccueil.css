@@ -33,6 +33,7 @@
 .text1 {
     position: absolute;
     font-size: var(--gros-texte);
+    font-family: poppins;
     color: var(--noir_blanc_gris---blanc);
     top: 55%;
     left: 5%;
@@ -62,6 +63,7 @@
     display: inline-block;
     /* Permet de régler la largeur automatiquement en fonction du contenu */
     font-size: var(--bouton);
+    font-family: Righteous;
     /* Taille de la police */
     margin: 4px 2px;
     /* Marge extérieure du bouton */
