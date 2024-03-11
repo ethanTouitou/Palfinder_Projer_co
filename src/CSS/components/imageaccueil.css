@@ -22,6 +22,7 @@
 .grostitre2 {
     position: absolute;
     font-size: var(--gros-titre-2);
+    font-weight: 200;
     font-family: Righteous;
     color: var(--bleu---bleu_principal);
     top: 20%;

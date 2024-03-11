@@ -74,6 +74,7 @@
 
 .grostitre3 {
     font-size: var(--gros-titre-2);
+    font-weight: 200;
     color: var(--bleu---bleu_principal);
     font-family: Righteous;
     text-align: center;
@@ -81,7 +82,9 @@
 }
 
 .titre4 {
-    font-size: 32px;
+    font-size: var(--bouton);
+    font-family: poppins;
+
 }
 
 .titre5 {
