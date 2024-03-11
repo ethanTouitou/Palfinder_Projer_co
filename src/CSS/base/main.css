@@ -4,7 +4,7 @@ img {
 }
 
 .container {
-    padding-left: 40px;
-    padding-right: 40px;
-    padding-top: 40px;
+    padding: 0 3rem;
+    margin: auto;
+    width: 1000px;
 }
