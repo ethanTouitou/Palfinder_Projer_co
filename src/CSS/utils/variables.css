@@ -16,6 +16,10 @@
     --r-g-b---bleu: rgba(0, 0, 255, 1);
     --default--grey--325: rgba(174, 174, 174, 1);
 
+    /* Polices de caractère */
+    --font-website: 'Righteous', sans-serif;
+    --font-website-2: 'Poppins', sans-serif;
+
     /* Text-size styles */
     --mobile_footer_categorie: 11px;
     --footer_menu: 11px;

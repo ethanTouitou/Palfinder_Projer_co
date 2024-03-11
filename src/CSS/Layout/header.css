@@ -45,5 +45,6 @@
     color: var(--noir_blanc_gris---blanc);
     text-decoration: none;
     padding-right: 40px;
+    font-family: Righteous;
     font-size: var(--item-menu);
 }
