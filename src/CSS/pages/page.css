@@ -145,6 +145,13 @@
     border: 2px solid rgb(0, 0, 0);
 }
 
+.bouton3:hover {
+    background-color: #ffffff;
+    color: black;
+    border: 2px solid rgb(0, 0, 0);
+    /* Couleur de fond du bouton au survol */
+}
+
 .container2 {
     padding-left: 50px;
     padding-right: 50px;
